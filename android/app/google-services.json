@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419869012316",
+    "firebase_url": "https://emergency-a3aef.firebaseio.com",
+    "project_id": "emergency-a3aef",
+    "storage_bucket": "emergency-a3aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419869012316:android:b902b3a12118498a451199",
+        "android_client_info": {
+          "package_name": "com.real_nigeria.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419869012316-okbd5lpqmhsut6d70qnc0rp3vglra5vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.real_nigeria.emergency",
+            "certificate_hash": "bb1541a9b685269291ff1ca09b7f97a3fed0817d"
+          }
+        },
+        {
+          "client_id": "419869012316-8kvjtt1io217t53pbomkdtl5jr2p497s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5vU8OiDXzufPAtbA-KqWdqhIm0O7xr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419869012316-8kvjtt1io217t53pbomkdtl5jr2p497s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
