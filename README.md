@@ -1,16 +1,21 @@
-# emergency
+# emergency app
 
-A new Flutter application.
+A flutter application that gives users the ability to users
+to reach out quickly other people and help or assist others in case of an emergency and 
 
-## Getting Started
+## Functionalities
 
-This project is a starting point for a Flutter application.
+- Registration to firebase
+- Login
+- Logout
+- Send an emergency (Patient)
+- Respond to an emergency (responders)
+- Edit user profile
+- See user location
+- Call an ambulance
+- Locate pharmacies and hospitals.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Suggestions or questions
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for more information, you can contact me at aristidemima@gmail.com
