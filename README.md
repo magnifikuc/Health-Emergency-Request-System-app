@@ -18,4 +18,4 @@ to reach out quickly other people and help or assist others in case of an emerge
 
 ## Suggestions or questions
 
-for more information, you can contact me at aristidemima@gmail.com
+for more information, you can contact me at obumkeke@gmail.com
